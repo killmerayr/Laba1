@@ -8,11 +8,11 @@ using namespace std;
 double perimetr(double a, double b){
     return 2 * (a + b);
 }
-
+//Второй коментарий
 double ploshad(double a, double b){
     return a * b;
 }
-
+//Третий коментарий
 double diagonal(double a, double b){
     return sqrt(a*a + b*b);
 }
