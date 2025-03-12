@@ -4,15 +4,15 @@
 
 using namespace std;
  
-//Первый коментарий
+//Расчет периметра
 double perimetr(double a, double b){
     return 2 * (a + b);
 }
-//Второй коментарий
+//Расчет площади
 double ploshad(double a, double b){
     return a * b;
 }
-//Третий коментарий
+//Расчет диагонали
 double diagonal(double a, double b){
     return sqrt(a*a + b*b);
 }
