@@ -4,7 +4,7 @@
 
 using namespace std;
  
-
+//Первый коментарий
 double perimetr(double a, double b){
     return 2 * (a + b);
 }
